@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm Jae, a student in computer systems in Portugal.
+I also work at a software company and know some stuffs - Mandrel, Serenity, Ptyhon, C.
+
+This is a fresh profile where I´ll uploading some personal projects, experiments and this I'm currently working on. Everything is built from scratch, no AI used.
+---
+## A Bit About Me
+-  I'm a coffe person
+-  Into games - Red Dead Redemption and The Last of Us are my favorites
 
 <!--
 **jatlasoares/jatlasoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
